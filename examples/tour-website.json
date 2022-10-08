@@ -1,0 +1,1331 @@
+{
+  "id": "website",
+  "name": "Johannapark",
+  "pois": [
+    {
+      "id": "G4113",
+      "name": "Pyramiden-Pappel",
+      "location": {
+        "lat": "51,335",
+        "lon": "12,3668",
+        "hints": []
+      },
+      "images": [
+        {
+          "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
+          "description": "Pyramiden-Pappel"
+        }
+      ],
+      "info_nodes": [
+        {
+          "type": "latin-name",
+          "name": "Lateinischer Name",
+          "text": "Populus nigra 'Italica'",
+          "audio": null
+        },
+        {
+          "type": "origin",
+          "name": "Lateinischer Name",
+          "text": "Italien",
+          "audio": null
+        },
+        {
+          "type": "leaves",
+          "name": "Bl\u00e4tter",
+          "text": "gl\u00e4nzend, leicht ledrig, dunkelgr\u00fcn, gelappt, Herbstf\u00e4rbung gelb bis rot",
+          "audio": null
+        },
+        {
+          "type": "blossoms",
+          "name": "Bl\u00fcten",
+          "text": "erst nach dem Laubaustrieb, April \u2013 Mai, doldenf\u00f6rmig, gelbgr\u00fcn",
+          "audio": null
+        },
+        {
+          "type": "fruits",
+          "name": "Fr\u00fcchte",
+          "text": "gefl\u00fcgelte N\u00fcsschen mit zwei Samen",
+          "audio": null
+        },
+        {
+          "type": "relation-to-leipzig",
+          "name": "Verbindung zu Leipzig",
+          "text": "<p>Es leben in Leipzig ca. 1.900 Menschen mit italienischem Migrationshintergrund.</p>\n\n<p>Bologna ist Leipzigs zweit\u00e4lteste Partnerstadt. Die Verbindungen reichen zur\u00fcck\nins Jahr 1962, in welchem die offizielle Partnerschaftsurkunde unterzeichnet\nwurde.</p>\n\n<ul>\n  <li><a href=\"https://www.leipzig-italien.de\">Deutsch-Italienische Gesellschaft Leipzig e. V.</a></li>\n  <li><a href=\"www.italiani-a-lipsia.de\">Italiani a Lipsia e. V.</a></li>\n</ul>\n",
+          "audio": null
+        }
+      ]
+    },
+    {
+      "id": "G3943",
+      "name": "H\u00e4nge-Silber-Linde",
+      "location": {
+        "lat": "51,3351",
+        "lon": "12,3659",
+        "hints": []
+      },
+      "images": [
+        {
+          "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
+          "description": "H\u00e4nge-Silber-Linde"
+        }
+      ],
+      "info_nodes": [
+        {
+          "type": "latin-name",
+          "name": "Lateinischer Name",
+          "text": "Tilia tomentosa 'Petiolaris'",
+          "audio": null
+        },
+        {
+          "type": "origin",
+          "name": "Lateinischer Name",
+          "text": "Italien",
+          "audio": null
+        },
+        {
+          "type": "leaves",
+          "name": "Bl\u00e4tter",
+          "text": "gl\u00e4nzend, leicht ledrig, dunkelgr\u00fcn, gelappt, Herbstf\u00e4rbung gelb bis rot",
+          "audio": null
+        },
+        {
+          "type": "blossoms",
+          "name": "Bl\u00fcten",
+          "text": "erst nach dem Laubaustrieb, April \u2013 Mai, doldenf\u00f6rmig, gelbgr\u00fcn",
+          "audio": null
+        },
+        {
+          "type": "fruits",
+          "name": "Fr\u00fcchte",
+          "text": "gefl\u00fcgelte N\u00fcsschen mit zwei Samen",
+          "audio": null
+        },
+        {
+          "type": "relation-to-leipzig",
+          "name": "Verbindung zu Leipzig",
+          "text": "<p>Es leben in Leipzig ca. 1.900 Menschen mit italienischem Migrationshintergrund.</p>\n\n<p>Bologna ist Leipzigs zweit\u00e4lteste Partnerstadt. Die Verbindungen reichen zur\u00fcck\nins Jahr 1962, in welchem die offizielle Partnerschaftsurkunde unterzeichnet\nwurde.</p>\n\n<ul>\n  <li><a href=\"https://www.leipzig-italien.de\">Deutsch-Italienische Gesellschaft Leipzig e. V.</a></li>\n  <li><a href=\"www.italiani-a-lipsia.de\">Italiani a Lipsia e. V.</a></li>\n</ul>\n",
+          "audio": null
+        }
+      ]
+    },
+    {
+      "id": "G3952",
+      "name": "H\u00e4nge-Esche",
+      "location": {
+        "lat": "51,3352",
+        "lon": "12,3658",
+        "hints": []
+      },
+      "images": [
+        {
+          "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
+          "description": "H\u00e4nge-Esche"
+        }
+      ],
+      "info_nodes": [
+        {
+          "type": "latin-name",
+          "name": "Lateinischer Name",
+          "text": "Fraxinus excelsior 'Pendula'",
+          "audio": null
+        },
+        {
+          "type": "origin",
+          "name": "Lateinischer Name",
+          "text": "Italien",
+          "audio": null
+        },
+        {
+          "type": "leaves",
+          "name": "Bl\u00e4tter",
+          "text": "gl\u00e4nzend, leicht ledrig, dunkelgr\u00fcn, gelappt, Herbstf\u00e4rbung gelb bis rot",
+          "audio": null
+        },
+        {
+          "type": "blossoms",
+          "name": "Bl\u00fcten",
+          "text": "erst nach dem Laubaustrieb, April \u2013 Mai, doldenf\u00f6rmig, gelbgr\u00fcn",
+          "audio": null
+        },
+        {
+          "type": "fruits",
+          "name": "Fr\u00fcchte",
+          "text": "gefl\u00fcgelte N\u00fcsschen mit zwei Samen",
+          "audio": null
+        },
+        {
+          "type": "relation-to-leipzig",
+          "name": "Verbindung zu Leipzig",
+          "text": "<p>Es leben in Leipzig ca. 1.900 Menschen mit italienischem Migrationshintergrund.</p>\n\n<p>Bologna ist Leipzigs zweit\u00e4lteste Partnerstadt. Die Verbindungen reichen zur\u00fcck\nins Jahr 1962, in welchem die offizielle Partnerschaftsurkunde unterzeichnet\nwurde.</p>\n\n<ul>\n  <li><a href=\"https://www.leipzig-italien.de\">Deutsch-Italienische Gesellschaft Leipzig e. V.</a></li>\n  <li><a href=\"www.italiani-a-lipsia.de\">Italiani a Lipsia e. V.</a></li>\n</ul>\n",
+          "audio": null
+        }
+      ]
+    },
+    {
+      "id": "G3955",
+      "name": "Japanischer Schnurbaum",
+      "location": {
+        "lat": "51,3354",
+        "lon": "12,3665",
+        "hints": []
+      },
+      "images": [
+        {
+          "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
+          "description": "Japanischer Schnurbaum"
+        }
+      ],
+      "info_nodes": [
+        {
+          "type": "latin-name",
+          "name": "Lateinischer Name",
+          "text": "Sophora japonica",
+          "audio": null
+        },
+        {
+          "type": "origin",
+          "name": "Lateinischer Name",
+          "text": "Italien",
+          "audio": null
+        },
+        {
+          "type": "leaves",
+          "name": "Bl\u00e4tter",
+          "text": "gl\u00e4nzend, leicht ledrig, dunkelgr\u00fcn, gelappt, Herbstf\u00e4rbung gelb bis rot",
+          "audio": null
+        },
+        {
+          "type": "blossoms",
+          "name": "Bl\u00fcten",
+          "text": "erst nach dem Laubaustrieb, April \u2013 Mai, doldenf\u00f6rmig, gelbgr\u00fcn",
+          "audio": null
+        },
+        {
+          "type": "fruits",
+          "name": "Fr\u00fcchte",
+          "text": "gefl\u00fcgelte N\u00fcsschen mit zwei Samen",
+          "audio": null
+        },
+        {
+          "type": "relation-to-leipzig",
+          "name": "Verbindung zu Leipzig",
+          "text": "<p>Es leben in Leipzig ca. 1.900 Menschen mit italienischem Migrationshintergrund.</p>\n\n<p>Bologna ist Leipzigs zweit\u00e4lteste Partnerstadt. Die Verbindungen reichen zur\u00fcck\nins Jahr 1962, in welchem die offizielle Partnerschaftsurkunde unterzeichnet\nwurde.</p>\n\n<ul>\n  <li><a href=\"https://www.leipzig-italien.de\">Deutsch-Italienische Gesellschaft Leipzig e. V.</a></li>\n  <li><a href=\"www.italiani-a-lipsia.de\">Italiani a Lipsia e. V.</a></li>\n</ul>\n",
+          "audio": null
+        }
+      ]
+    },
+    {
+      "id": "G4009",
+      "name": "G\u00f6tterbaum",
+      "location": {
+        "lat": "51,3356",
+        "lon": "12,3666",
+        "hints": []
+      },
+      "images": [
+        {
+          "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
+          "description": "G\u00f6tterbaum"
+        }
+      ],
+      "info_nodes": [
+        {
+          "type": "latin-name",
+          "name": "Lateinischer Name",
+          "text": "Ailanthus altissima",
+          "audio": null
+        },
+        {
+          "type": "origin",
+          "name": "Lateinischer Name",
+          "text": "Italien",
+          "audio": null
+        },
+        {
+          "type": "leaves",
+          "name": "Bl\u00e4tter",
+          "text": "gl\u00e4nzend, leicht ledrig, dunkelgr\u00fcn, gelappt, Herbstf\u00e4rbung gelb bis rot",
+          "audio": null
+        },
+        {
+          "type": "blossoms",
+          "name": "Bl\u00fcten",
+          "text": "erst nach dem Laubaustrieb, April \u2013 Mai, doldenf\u00f6rmig, gelbgr\u00fcn",
+          "audio": null
+        },
+        {
+          "type": "fruits",
+          "name": "Fr\u00fcchte",
+          "text": "gefl\u00fcgelte N\u00fcsschen mit zwei Samen",
+          "audio": null
+        },
+        {
+          "type": "relation-to-leipzig",
+          "name": "Verbindung zu Leipzig",
+          "text": "<p>Es leben in Leipzig ca. 1.900 Menschen mit italienischem Migrationshintergrund.</p>\n\n<p>Bologna ist Leipzigs zweit\u00e4lteste Partnerstadt. Die Verbindungen reichen zur\u00fcck\nins Jahr 1962, in welchem die offizielle Partnerschaftsurkunde unterzeichnet\nwurde.</p>\n\n<ul>\n  <li><a href=\"https://www.leipzig-italien.de\">Deutsch-Italienische Gesellschaft Leipzig e. V.</a></li>\n  <li><a href=\"www.italiani-a-lipsia.de\">Italiani a Lipsia e. V.</a></li>\n</ul>\n",
+          "audio": null
+        }
+      ]
+    },
+    {
+      "id": "G1228",
+      "name": "Ulme 'New Horizon'",
+      "location": {
+        "lat": "51,3356",
+        "lon": "12,3659",
+        "hints": []
+      },
+      "images": [
+        {
+          "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
+          "description": "Ulme 'New Horizon'"
+        }
+      ],
+      "info_nodes": [
+        {
+          "type": "latin-name",
+          "name": "Lateinischer Name",
+          "text": "Ulmus 'New Horizon'",
+          "audio": null
+        },
+        {
+          "type": "origin",
+          "name": "Lateinischer Name",
+          "text": "Italien",
+          "audio": null
+        },
+        {
+          "type": "leaves",
+          "name": "Bl\u00e4tter",
+          "text": "gl\u00e4nzend, leicht ledrig, dunkelgr\u00fcn, gelappt, Herbstf\u00e4rbung gelb bis rot",
+          "audio": null
+        },
+        {
+          "type": "blossoms",
+          "name": "Bl\u00fcten",
+          "text": "erst nach dem Laubaustrieb, April \u2013 Mai, doldenf\u00f6rmig, gelbgr\u00fcn",
+          "audio": null
+        },
+        {
+          "type": "fruits",
+          "name": "Fr\u00fcchte",
+          "text": "gefl\u00fcgelte N\u00fcsschen mit zwei Samen",
+          "audio": null
+        },
+        {
+          "type": "relation-to-leipzig",
+          "name": "Verbindung zu Leipzig",
+          "text": "<p>Es leben in Leipzig ca. 1.900 Menschen mit italienischem Migrationshintergrund.</p>\n\n<p>Bologna ist Leipzigs zweit\u00e4lteste Partnerstadt. Die Verbindungen reichen zur\u00fcck\nins Jahr 1962, in welchem die offizielle Partnerschaftsurkunde unterzeichnet\nwurde.</p>\n\n<ul>\n  <li><a href=\"https://www.leipzig-italien.de\">Deutsch-Italienische Gesellschaft Leipzig e. V.</a></li>\n  <li><a href=\"www.italiani-a-lipsia.de\">Italiani a Lipsia e. V.</a></li>\n</ul>\n",
+          "audio": null
+        }
+      ]
+    },
+    {
+      "id": "G3983",
+      "name": "Platane",
+      "location": {
+        "lat": "51,3355",
+        "lon": "12,3648",
+        "hints": []
+      },
+      "images": [
+        {
+          "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
+          "description": "Platane"
+        }
+      ],
+      "info_nodes": [
+        {
+          "type": "latin-name",
+          "name": "Lateinischer Name",
+          "text": "Platanus x acerifolia",
+          "audio": null
+        },
+        {
+          "type": "origin",
+          "name": "Lateinischer Name",
+          "text": "Italien",
+          "audio": null
+        },
+        {
+          "type": "leaves",
+          "name": "Bl\u00e4tter",
+          "text": "gl\u00e4nzend, leicht ledrig, dunkelgr\u00fcn, gelappt, Herbstf\u00e4rbung gelb bis rot",
+          "audio": null
+        },
+        {
+          "type": "blossoms",
+          "name": "Bl\u00fcten",
+          "text": "erst nach dem Laubaustrieb, April \u2013 Mai, doldenf\u00f6rmig, gelbgr\u00fcn",
+          "audio": null
+        },
+        {
+          "type": "fruits",
+          "name": "Fr\u00fcchte",
+          "text": "gefl\u00fcgelte N\u00fcsschen mit zwei Samen",
+          "audio": null
+        },
+        {
+          "type": "relation-to-leipzig",
+          "name": "Verbindung zu Leipzig",
+          "text": "<p>Es leben in Leipzig ca. 1.900 Menschen mit italienischem Migrationshintergrund.</p>\n\n<p>Bologna ist Leipzigs zweit\u00e4lteste Partnerstadt. Die Verbindungen reichen zur\u00fcck\nins Jahr 1962, in welchem die offizielle Partnerschaftsurkunde unterzeichnet\nwurde.</p>\n\n<ul>\n  <li><a href=\"https://www.leipzig-italien.de\">Deutsch-Italienische Gesellschaft Leipzig e. V.</a></li>\n  <li><a href=\"www.italiani-a-lipsia.de\">Italiani a Lipsia e. V.</a></li>\n</ul>\n",
+          "audio": null
+        }
+      ]
+    },
+    {
+      "id": "G3973",
+      "name": "Stiel-Eiche",
+      "location": {
+        "lat": "51,3355",
+        "lon": "12,3643",
+        "hints": []
+      },
+      "images": [
+        {
+          "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
+          "description": "Stiel-Eiche"
+        }
+      ],
+      "info_nodes": [
+        {
+          "type": "latin-name",
+          "name": "Lateinischer Name",
+          "text": "Quercus robur",
+          "audio": null
+        },
+        {
+          "type": "origin",
+          "name": "Lateinischer Name",
+          "text": "Italien",
+          "audio": null
+        },
+        {
+          "type": "leaves",
+          "name": "Bl\u00e4tter",
+          "text": "gl\u00e4nzend, leicht ledrig, dunkelgr\u00fcn, gelappt, Herbstf\u00e4rbung gelb bis rot",
+          "audio": null
+        },
+        {
+          "type": "blossoms",
+          "name": "Bl\u00fcten",
+          "text": "erst nach dem Laubaustrieb, April \u2013 Mai, doldenf\u00f6rmig, gelbgr\u00fcn",
+          "audio": null
+        },
+        {
+          "type": "fruits",
+          "name": "Fr\u00fcchte",
+          "text": "gefl\u00fcgelte N\u00fcsschen mit zwei Samen",
+          "audio": null
+        },
+        {
+          "type": "relation-to-leipzig",
+          "name": "Verbindung zu Leipzig",
+          "text": "<p>Es leben in Leipzig ca. 1.900 Menschen mit italienischem Migrationshintergrund.</p>\n\n<p>Bologna ist Leipzigs zweit\u00e4lteste Partnerstadt. Die Verbindungen reichen zur\u00fcck\nins Jahr 1962, in welchem die offizielle Partnerschaftsurkunde unterzeichnet\nwurde.</p>\n\n<ul>\n  <li><a href=\"https://www.leipzig-italien.de\">Deutsch-Italienische Gesellschaft Leipzig e. V.</a></li>\n  <li><a href=\"www.italiani-a-lipsia.de\">Italiani a Lipsia e. V.</a></li>\n</ul>\n",
+          "audio": null
+        }
+      ]
+    },
+    {
+      "id": "G3765",
+      "name": "Japanische Zelkove",
+      "location": {
+        "lat": "51,3354",
+        "lon": "12,3655",
+        "hints": []
+      },
+      "images": [
+        {
+          "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
+          "description": "Japanische Zelkove"
+        }
+      ],
+      "info_nodes": [
+        {
+          "type": "latin-name",
+          "name": "Lateinischer Name",
+          "text": "Zelkova serrata",
+          "audio": null
+        },
+        {
+          "type": "origin",
+          "name": "Lateinischer Name",
+          "text": "Italien",
+          "audio": null
+        },
+        {
+          "type": "leaves",
+          "name": "Bl\u00e4tter",
+          "text": "gl\u00e4nzend, leicht ledrig, dunkelgr\u00fcn, gelappt, Herbstf\u00e4rbung gelb bis rot",
+          "audio": null
+        },
+        {
+          "type": "blossoms",
+          "name": "Bl\u00fcten",
+          "text": "erst nach dem Laubaustrieb, April \u2013 Mai, doldenf\u00f6rmig, gelbgr\u00fcn",
+          "audio": null
+        },
+        {
+          "type": "fruits",
+          "name": "Fr\u00fcchte",
+          "text": "gefl\u00fcgelte N\u00fcsschen mit zwei Samen",
+          "audio": null
+        },
+        {
+          "type": "relation-to-leipzig",
+          "name": "Verbindung zu Leipzig",
+          "text": "<p>Es leben in Leipzig ca. 1.900 Menschen mit italienischem Migrationshintergrund.</p>\n\n<p>Bologna ist Leipzigs zweit\u00e4lteste Partnerstadt. Die Verbindungen reichen zur\u00fcck\nins Jahr 1962, in welchem die offizielle Partnerschaftsurkunde unterzeichnet\nwurde.</p>\n\n<ul>\n  <li><a href=\"https://www.leipzig-italien.de\">Deutsch-Italienische Gesellschaft Leipzig e. V.</a></li>\n  <li><a href=\"www.italiani-a-lipsia.de\">Italiani a Lipsia e. V.</a></li>\n</ul>\n",
+          "audio": null
+        }
+      ]
+    },
+    {
+      "id": "G4065",
+      "name": "Franz\u00f6sischer Ahorn",
+      "location": {
+        "lat": "51,3359",
+        "lon": "12,3638",
+        "hints": []
+      },
+      "images": [
+        {
+          "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
+          "description": "Franz\u00f6sischer Ahorn"
+        }
+      ],
+      "info_nodes": [
+        {
+          "type": "latin-name",
+          "name": "Lateinischer Name",
+          "text": "Acer monspessulanum",
+          "audio": null
+        },
+        {
+          "type": "origin",
+          "name": "Lateinischer Name",
+          "text": "Italien",
+          "audio": null
+        },
+        {
+          "type": "leaves",
+          "name": "Bl\u00e4tter",
+          "text": "gl\u00e4nzend, leicht ledrig, dunkelgr\u00fcn, gelappt, Herbstf\u00e4rbung gelb bis rot",
+          "audio": null
+        },
+        {
+          "type": "blossoms",
+          "name": "Bl\u00fcten",
+          "text": "erst nach dem Laubaustrieb, April \u2013 Mai, doldenf\u00f6rmig, gelbgr\u00fcn",
+          "audio": null
+        },
+        {
+          "type": "fruits",
+          "name": "Fr\u00fcchte",
+          "text": "gefl\u00fcgelte N\u00fcsschen mit zwei Samen",
+          "audio": null
+        },
+        {
+          "type": "relation-to-leipzig",
+          "name": "Verbindung zu Leipzig",
+          "text": "<p>Es leben in Leipzig ca. 1.900 Menschen mit italienischem Migrationshintergrund.</p>\n\n<p>Bologna ist Leipzigs zweit\u00e4lteste Partnerstadt. Die Verbindungen reichen zur\u00fcck\nins Jahr 1962, in welchem die offizielle Partnerschaftsurkunde unterzeichnet\nwurde.</p>\n\n<ul>\n  <li><a href=\"https://www.leipzig-italien.de\">Deutsch-Italienische Gesellschaft Leipzig e. V.</a></li>\n  <li><a href=\"www.italiani-a-lipsia.de\">Italiani a Lipsia e. V.</a></li>\n</ul>\n",
+          "audio": null
+        }
+      ]
+    },
+    {
+      "id": "G4125",
+      "name": "Rosskastanie",
+      "location": {
+        "lat": "51,3357",
+        "lon": "12,3631",
+        "hints": []
+      },
+      "images": [
+        {
+          "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
+          "description": "Rosskastanie"
+        }
+      ],
+      "info_nodes": [
+        {
+          "type": "latin-name",
+          "name": "Lateinischer Name",
+          "text": "Aesculus hippocastanum",
+          "audio": null
+        },
+        {
+          "type": "origin",
+          "name": "Lateinischer Name",
+          "text": "Italien",
+          "audio": null
+        },
+        {
+          "type": "leaves",
+          "name": "Bl\u00e4tter",
+          "text": "gl\u00e4nzend, leicht ledrig, dunkelgr\u00fcn, gelappt, Herbstf\u00e4rbung gelb bis rot",
+          "audio": null
+        },
+        {
+          "type": "blossoms",
+          "name": "Bl\u00fcten",
+          "text": "erst nach dem Laubaustrieb, April \u2013 Mai, doldenf\u00f6rmig, gelbgr\u00fcn",
+          "audio": null
+        },
+        {
+          "type": "fruits",
+          "name": "Fr\u00fcchte",
+          "text": "gefl\u00fcgelte N\u00fcsschen mit zwei Samen",
+          "audio": null
+        },
+        {
+          "type": "relation-to-leipzig",
+          "name": "Verbindung zu Leipzig",
+          "text": "<p>Es leben in Leipzig ca. 1.900 Menschen mit italienischem Migrationshintergrund.</p>\n\n<p>Bologna ist Leipzigs zweit\u00e4lteste Partnerstadt. Die Verbindungen reichen zur\u00fcck\nins Jahr 1962, in welchem die offizielle Partnerschaftsurkunde unterzeichnet\nwurde.</p>\n\n<ul>\n  <li><a href=\"https://www.leipzig-italien.de\">Deutsch-Italienische Gesellschaft Leipzig e. V.</a></li>\n  <li><a href=\"www.italiani-a-lipsia.de\">Italiani a Lipsia e. V.</a></li>\n</ul>\n",
+          "audio": null
+        }
+      ]
+    },
+    {
+      "id": "G4144",
+      "name": "Robinie",
+      "location": {
+        "lat": "51,3358",
+        "lon": "12,3628",
+        "hints": []
+      },
+      "images": [
+        {
+          "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
+          "description": "Robinie"
+        }
+      ],
+      "info_nodes": [
+        {
+          "type": "latin-name",
+          "name": "Lateinischer Name",
+          "text": "Robinia pseudoacacia",
+          "audio": null
+        },
+        {
+          "type": "origin",
+          "name": "Lateinischer Name",
+          "text": "Italien",
+          "audio": null
+        },
+        {
+          "type": "leaves",
+          "name": "Bl\u00e4tter",
+          "text": "gl\u00e4nzend, leicht ledrig, dunkelgr\u00fcn, gelappt, Herbstf\u00e4rbung gelb bis rot",
+          "audio": null
+        },
+        {
+          "type": "blossoms",
+          "name": "Bl\u00fcten",
+          "text": "erst nach dem Laubaustrieb, April \u2013 Mai, doldenf\u00f6rmig, gelbgr\u00fcn",
+          "audio": null
+        },
+        {
+          "type": "fruits",
+          "name": "Fr\u00fcchte",
+          "text": "gefl\u00fcgelte N\u00fcsschen mit zwei Samen",
+          "audio": null
+        },
+        {
+          "type": "relation-to-leipzig",
+          "name": "Verbindung zu Leipzig",
+          "text": "<p>Es leben in Leipzig ca. 1.900 Menschen mit italienischem Migrationshintergrund.</p>\n\n<p>Bologna ist Leipzigs zweit\u00e4lteste Partnerstadt. Die Verbindungen reichen zur\u00fcck\nins Jahr 1962, in welchem die offizielle Partnerschaftsurkunde unterzeichnet\nwurde.</p>\n\n<ul>\n  <li><a href=\"https://www.leipzig-italien.de\">Deutsch-Italienische Gesellschaft Leipzig e. V.</a></li>\n  <li><a href=\"www.italiani-a-lipsia.de\">Italiani a Lipsia e. V.</a></li>\n</ul>\n",
+          "audio": null
+        }
+      ]
+    },
+    {
+      "id": "G4147",
+      "name": "Veredelte Blut-Buche",
+      "location": {
+        "lat": "51,3357",
+        "lon": "12,3628",
+        "hints": []
+      },
+      "images": [
+        {
+          "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
+          "description": "Veredelte Blut-Buche"
+        }
+      ],
+      "info_nodes": [
+        {
+          "type": "latin-name",
+          "name": "Lateinischer Name",
+          "text": "Fagus sylvatica 'Atropunicea'",
+          "audio": null
+        },
+        {
+          "type": "origin",
+          "name": "Lateinischer Name",
+          "text": "Italien",
+          "audio": null
+        },
+        {
+          "type": "leaves",
+          "name": "Bl\u00e4tter",
+          "text": "gl\u00e4nzend, leicht ledrig, dunkelgr\u00fcn, gelappt, Herbstf\u00e4rbung gelb bis rot",
+          "audio": null
+        },
+        {
+          "type": "blossoms",
+          "name": "Bl\u00fcten",
+          "text": "erst nach dem Laubaustrieb, April \u2013 Mai, doldenf\u00f6rmig, gelbgr\u00fcn",
+          "audio": null
+        },
+        {
+          "type": "fruits",
+          "name": "Fr\u00fcchte",
+          "text": "gefl\u00fcgelte N\u00fcsschen mit zwei Samen",
+          "audio": null
+        },
+        {
+          "type": "relation-to-leipzig",
+          "name": "Verbindung zu Leipzig",
+          "text": "<p>Es leben in Leipzig ca. 1.900 Menschen mit italienischem Migrationshintergrund.</p>\n\n<p>Bologna ist Leipzigs zweit\u00e4lteste Partnerstadt. Die Verbindungen reichen zur\u00fcck\nins Jahr 1962, in welchem die offizielle Partnerschaftsurkunde unterzeichnet\nwurde.</p>\n\n<ul>\n  <li><a href=\"https://www.leipzig-italien.de\">Deutsch-Italienische Gesellschaft Leipzig e. V.</a></li>\n  <li><a href=\"www.italiani-a-lipsia.de\">Italiani a Lipsia e. V.</a></li>\n</ul>\n",
+          "audio": null
+        }
+      ]
+    },
+    {
+      "id": "G3713",
+      "name": "Holl\u00e4ndische Linde",
+      "location": {
+        "lat": "51,3352",
+        "lon": "12,3626",
+        "hints": []
+      },
+      "images": [
+        {
+          "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
+          "description": "Holl\u00e4ndische Linde"
+        }
+      ],
+      "info_nodes": [
+        {
+          "type": "latin-name",
+          "name": "Lateinischer Name",
+          "text": "Tilia x vulgaris",
+          "audio": null
+        },
+        {
+          "type": "origin",
+          "name": "Lateinischer Name",
+          "text": "Italien",
+          "audio": null
+        },
+        {
+          "type": "leaves",
+          "name": "Bl\u00e4tter",
+          "text": "gl\u00e4nzend, leicht ledrig, dunkelgr\u00fcn, gelappt, Herbstf\u00e4rbung gelb bis rot",
+          "audio": null
+        },
+        {
+          "type": "blossoms",
+          "name": "Bl\u00fcten",
+          "text": "erst nach dem Laubaustrieb, April \u2013 Mai, doldenf\u00f6rmig, gelbgr\u00fcn",
+          "audio": null
+        },
+        {
+          "type": "fruits",
+          "name": "Fr\u00fcchte",
+          "text": "gefl\u00fcgelte N\u00fcsschen mit zwei Samen",
+          "audio": null
+        },
+        {
+          "type": "relation-to-leipzig",
+          "name": "Verbindung zu Leipzig",
+          "text": "<p>Es leben in Leipzig ca. 1.900 Menschen mit italienischem Migrationshintergrund.</p>\n\n<p>Bologna ist Leipzigs zweit\u00e4lteste Partnerstadt. Die Verbindungen reichen zur\u00fcck\nins Jahr 1962, in welchem die offizielle Partnerschaftsurkunde unterzeichnet\nwurde.</p>\n\n<ul>\n  <li><a href=\"https://www.leipzig-italien.de\">Deutsch-Italienische Gesellschaft Leipzig e. V.</a></li>\n  <li><a href=\"www.italiani-a-lipsia.de\">Italiani a Lipsia e. V.</a></li>\n</ul>\n",
+          "audio": null
+        }
+      ]
+    },
+    {
+      "id": "G3708",
+      "name": "Sumpfzypresse",
+      "location": {
+        "lat": "51,335",
+        "lon": "12,362",
+        "hints": []
+      },
+      "images": [
+        {
+          "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
+          "description": "Sumpfzypresse"
+        }
+      ],
+      "info_nodes": [
+        {
+          "type": "latin-name",
+          "name": "Lateinischer Name",
+          "text": "Taxodium distichum",
+          "audio": null
+        },
+        {
+          "type": "origin",
+          "name": "Lateinischer Name",
+          "text": "Italien",
+          "audio": null
+        },
+        {
+          "type": "leaves",
+          "name": "Bl\u00e4tter",
+          "text": "gl\u00e4nzend, leicht ledrig, dunkelgr\u00fcn, gelappt, Herbstf\u00e4rbung gelb bis rot",
+          "audio": null
+        },
+        {
+          "type": "blossoms",
+          "name": "Bl\u00fcten",
+          "text": "erst nach dem Laubaustrieb, April \u2013 Mai, doldenf\u00f6rmig, gelbgr\u00fcn",
+          "audio": null
+        },
+        {
+          "type": "fruits",
+          "name": "Fr\u00fcchte",
+          "text": "gefl\u00fcgelte N\u00fcsschen mit zwei Samen",
+          "audio": null
+        },
+        {
+          "type": "relation-to-leipzig",
+          "name": "Verbindung zu Leipzig",
+          "text": "<p>Es leben in Leipzig ca. 1.900 Menschen mit italienischem Migrationshintergrund.</p>\n\n<p>Bologna ist Leipzigs zweit\u00e4lteste Partnerstadt. Die Verbindungen reichen zur\u00fcck\nins Jahr 1962, in welchem die offizielle Partnerschaftsurkunde unterzeichnet\nwurde.</p>\n\n<ul>\n  <li><a href=\"https://www.leipzig-italien.de\">Deutsch-Italienische Gesellschaft Leipzig e. V.</a></li>\n  <li><a href=\"www.italiani-a-lipsia.de\">Italiani a Lipsia e. V.</a></li>\n</ul>\n",
+          "audio": null
+        }
+      ]
+    },
+    {
+      "id": "G3655",
+      "name": "Schuppenrinden-Hickory",
+      "location": {
+        "lat": "51,3347",
+        "lon": "12,3612",
+        "hints": []
+      },
+      "images": [
+        {
+          "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
+          "description": "Schuppenrinden-Hickory"
+        }
+      ],
+      "info_nodes": [
+        {
+          "type": "latin-name",
+          "name": "Lateinischer Name",
+          "text": "Carya ovata",
+          "audio": null
+        },
+        {
+          "type": "origin",
+          "name": "Lateinischer Name",
+          "text": "Italien",
+          "audio": null
+        },
+        {
+          "type": "leaves",
+          "name": "Bl\u00e4tter",
+          "text": "gl\u00e4nzend, leicht ledrig, dunkelgr\u00fcn, gelappt, Herbstf\u00e4rbung gelb bis rot",
+          "audio": null
+        },
+        {
+          "type": "blossoms",
+          "name": "Bl\u00fcten",
+          "text": "erst nach dem Laubaustrieb, April \u2013 Mai, doldenf\u00f6rmig, gelbgr\u00fcn",
+          "audio": null
+        },
+        {
+          "type": "fruits",
+          "name": "Fr\u00fcchte",
+          "text": "gefl\u00fcgelte N\u00fcsschen mit zwei Samen",
+          "audio": null
+        },
+        {
+          "type": "relation-to-leipzig",
+          "name": "Verbindung zu Leipzig",
+          "text": "<p>Es leben in Leipzig ca. 1.900 Menschen mit italienischem Migrationshintergrund.</p>\n\n<p>Bologna ist Leipzigs zweit\u00e4lteste Partnerstadt. Die Verbindungen reichen zur\u00fcck\nins Jahr 1962, in welchem die offizielle Partnerschaftsurkunde unterzeichnet\nwurde.</p>\n\n<ul>\n  <li><a href=\"https://www.leipzig-italien.de\">Deutsch-Italienische Gesellschaft Leipzig e. V.</a></li>\n  <li><a href=\"www.italiani-a-lipsia.de\">Italiani a Lipsia e. V.</a></li>\n</ul>\n",
+          "audio": null
+        }
+      ]
+    },
+    {
+      "id": "G3642",
+      "name": "Europ\u00e4ische L\u00e4rche",
+      "location": {
+        "lat": "51,3341",
+        "lon": "12,3608",
+        "hints": []
+      },
+      "images": [
+        {
+          "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
+          "description": "Europ\u00e4ische L\u00e4rche"
+        }
+      ],
+      "info_nodes": [
+        {
+          "type": "latin-name",
+          "name": "Lateinischer Name",
+          "text": "Larix decidua",
+          "audio": null
+        },
+        {
+          "type": "origin",
+          "name": "Lateinischer Name",
+          "text": "Italien",
+          "audio": null
+        },
+        {
+          "type": "leaves",
+          "name": "Bl\u00e4tter",
+          "text": "gl\u00e4nzend, leicht ledrig, dunkelgr\u00fcn, gelappt, Herbstf\u00e4rbung gelb bis rot",
+          "audio": null
+        },
+        {
+          "type": "blossoms",
+          "name": "Bl\u00fcten",
+          "text": "erst nach dem Laubaustrieb, April \u2013 Mai, doldenf\u00f6rmig, gelbgr\u00fcn",
+          "audio": null
+        },
+        {
+          "type": "fruits",
+          "name": "Fr\u00fcchte",
+          "text": "gefl\u00fcgelte N\u00fcsschen mit zwei Samen",
+          "audio": null
+        },
+        {
+          "type": "relation-to-leipzig",
+          "name": "Verbindung zu Leipzig",
+          "text": "<p>Es leben in Leipzig ca. 1.900 Menschen mit italienischem Migrationshintergrund.</p>\n\n<p>Bologna ist Leipzigs zweit\u00e4lteste Partnerstadt. Die Verbindungen reichen zur\u00fcck\nins Jahr 1962, in welchem die offizielle Partnerschaftsurkunde unterzeichnet\nwurde.</p>\n\n<ul>\n  <li><a href=\"https://www.leipzig-italien.de\">Deutsch-Italienische Gesellschaft Leipzig e. V.</a></li>\n  <li><a href=\"www.italiani-a-lipsia.de\">Italiani a Lipsia e. V.</a></li>\n</ul>\n",
+          "audio": null
+        }
+      ]
+    },
+    {
+      "id": "G3624",
+      "name": "Schwedische Mehlbeere",
+      "location": {
+        "lat": "51,334",
+        "lon": "12,3605",
+        "hints": []
+      },
+      "images": [
+        {
+          "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
+          "description": "Schwedische Mehlbeere"
+        }
+      ],
+      "info_nodes": [
+        {
+          "type": "latin-name",
+          "name": "Lateinischer Name",
+          "text": "Sorbus intermedia",
+          "audio": null
+        },
+        {
+          "type": "origin",
+          "name": "Lateinischer Name",
+          "text": "Italien",
+          "audio": null
+        },
+        {
+          "type": "leaves",
+          "name": "Bl\u00e4tter",
+          "text": "gl\u00e4nzend, leicht ledrig, dunkelgr\u00fcn, gelappt, Herbstf\u00e4rbung gelb bis rot",
+          "audio": null
+        },
+        {
+          "type": "blossoms",
+          "name": "Bl\u00fcten",
+          "text": "erst nach dem Laubaustrieb, April \u2013 Mai, doldenf\u00f6rmig, gelbgr\u00fcn",
+          "audio": null
+        },
+        {
+          "type": "fruits",
+          "name": "Fr\u00fcchte",
+          "text": "gefl\u00fcgelte N\u00fcsschen mit zwei Samen",
+          "audio": null
+        },
+        {
+          "type": "relation-to-leipzig",
+          "name": "Verbindung zu Leipzig",
+          "text": "<p>Es leben in Leipzig ca. 1.900 Menschen mit italienischem Migrationshintergrund.</p>\n\n<p>Bologna ist Leipzigs zweit\u00e4lteste Partnerstadt. Die Verbindungen reichen zur\u00fcck\nins Jahr 1962, in welchem die offizielle Partnerschaftsurkunde unterzeichnet\nwurde.</p>\n\n<ul>\n  <li><a href=\"https://www.leipzig-italien.de\">Deutsch-Italienische Gesellschaft Leipzig e. V.</a></li>\n  <li><a href=\"www.italiani-a-lipsia.de\">Italiani a Lipsia e. V.</a></li>\n</ul>\n",
+          "audio": null
+        }
+      ]
+    },
+    {
+      "id": "41985",
+      "name": "Sumpf-Eiche",
+      "location": {
+        "lat": "51,3338",
+        "lon": "12,3603",
+        "hints": []
+      },
+      "images": [
+        {
+          "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
+          "description": "Sumpf-Eiche"
+        }
+      ],
+      "info_nodes": [
+        {
+          "type": "latin-name",
+          "name": "Lateinischer Name",
+          "text": "Quercus palustris",
+          "audio": null
+        },
+        {
+          "type": "origin",
+          "name": "Lateinischer Name",
+          "text": "Italien",
+          "audio": null
+        },
+        {
+          "type": "leaves",
+          "name": "Bl\u00e4tter",
+          "text": "gl\u00e4nzend, leicht ledrig, dunkelgr\u00fcn, gelappt, Herbstf\u00e4rbung gelb bis rot",
+          "audio": null
+        },
+        {
+          "type": "blossoms",
+          "name": "Bl\u00fcten",
+          "text": "erst nach dem Laubaustrieb, April \u2013 Mai, doldenf\u00f6rmig, gelbgr\u00fcn",
+          "audio": null
+        },
+        {
+          "type": "fruits",
+          "name": "Fr\u00fcchte",
+          "text": "gefl\u00fcgelte N\u00fcsschen mit zwei Samen",
+          "audio": null
+        },
+        {
+          "type": "relation-to-leipzig",
+          "name": "Verbindung zu Leipzig",
+          "text": "<p>Es leben in Leipzig ca. 1.900 Menschen mit italienischem Migrationshintergrund.</p>\n\n<p>Bologna ist Leipzigs zweit\u00e4lteste Partnerstadt. Die Verbindungen reichen zur\u00fcck\nins Jahr 1962, in welchem die offizielle Partnerschaftsurkunde unterzeichnet\nwurde.</p>\n\n<ul>\n  <li><a href=\"https://www.leipzig-italien.de\">Deutsch-Italienische Gesellschaft Leipzig e. V.</a></li>\n  <li><a href=\"www.italiani-a-lipsia.de\">Italiani a Lipsia e. V.</a></li>\n</ul>\n",
+          "audio": null
+        }
+      ]
+    },
+    {
+      "id": "G3520",
+      "name": "Spitz-Ahorn",
+      "location": {
+        "lat": "51,333",
+        "lon": "12,3616",
+        "hints": []
+      },
+      "images": [
+        {
+          "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
+          "description": "Spitz-Ahorn"
+        }
+      ],
+      "info_nodes": [
+        {
+          "type": "latin-name",
+          "name": "Lateinischer Name",
+          "text": "Acer platanoides",
+          "audio": null
+        },
+        {
+          "type": "origin",
+          "name": "Lateinischer Name",
+          "text": "Italien",
+          "audio": null
+        },
+        {
+          "type": "leaves",
+          "name": "Bl\u00e4tter",
+          "text": "gl\u00e4nzend, leicht ledrig, dunkelgr\u00fcn, gelappt, Herbstf\u00e4rbung gelb bis rot",
+          "audio": null
+        },
+        {
+          "type": "blossoms",
+          "name": "Bl\u00fcten",
+          "text": "erst nach dem Laubaustrieb, April \u2013 Mai, doldenf\u00f6rmig, gelbgr\u00fcn",
+          "audio": null
+        },
+        {
+          "type": "fruits",
+          "name": "Fr\u00fcchte",
+          "text": "gefl\u00fcgelte N\u00fcsschen mit zwei Samen",
+          "audio": null
+        },
+        {
+          "type": "relation-to-leipzig",
+          "name": "Verbindung zu Leipzig",
+          "text": "<p>Es leben in Leipzig ca. 1.900 Menschen mit italienischem Migrationshintergrund.</p>\n\n<p>Bologna ist Leipzigs zweit\u00e4lteste Partnerstadt. Die Verbindungen reichen zur\u00fcck\nins Jahr 1962, in welchem die offizielle Partnerschaftsurkunde unterzeichnet\nwurde.</p>\n\n<ul>\n  <li><a href=\"https://www.leipzig-italien.de\">Deutsch-Italienische Gesellschaft Leipzig e. V.</a></li>\n  <li><a href=\"www.italiani-a-lipsia.de\">Italiani a Lipsia e. V.</a></li>\n</ul>\n",
+          "audio": null
+        }
+      ]
+    },
+    {
+      "id": "G3793",
+      "name": "Sumpfzypresse",
+      "location": {
+        "lat": "51,3341",
+        "lon": "12,3629",
+        "hints": []
+      },
+      "images": [
+        {
+          "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
+          "description": "Sumpfzypresse"
+        }
+      ],
+      "info_nodes": [
+        {
+          "type": "latin-name",
+          "name": "Lateinischer Name",
+          "text": "Taxodium distichum",
+          "audio": null
+        },
+        {
+          "type": "origin",
+          "name": "Lateinischer Name",
+          "text": "Italien",
+          "audio": null
+        },
+        {
+          "type": "leaves",
+          "name": "Bl\u00e4tter",
+          "text": "gl\u00e4nzend, leicht ledrig, dunkelgr\u00fcn, gelappt, Herbstf\u00e4rbung gelb bis rot",
+          "audio": null
+        },
+        {
+          "type": "blossoms",
+          "name": "Bl\u00fcten",
+          "text": "erst nach dem Laubaustrieb, April \u2013 Mai, doldenf\u00f6rmig, gelbgr\u00fcn",
+          "audio": null
+        },
+        {
+          "type": "fruits",
+          "name": "Fr\u00fcchte",
+          "text": "gefl\u00fcgelte N\u00fcsschen mit zwei Samen",
+          "audio": null
+        },
+        {
+          "type": "relation-to-leipzig",
+          "name": "Verbindung zu Leipzig",
+          "text": "<p>Es leben in Leipzig ca. 1.900 Menschen mit italienischem Migrationshintergrund.</p>\n\n<p>Bologna ist Leipzigs zweit\u00e4lteste Partnerstadt. Die Verbindungen reichen zur\u00fcck\nins Jahr 1962, in welchem die offizielle Partnerschaftsurkunde unterzeichnet\nwurde.</p>\n\n<ul>\n  <li><a href=\"https://www.leipzig-italien.de\">Deutsch-Italienische Gesellschaft Leipzig e. V.</a></li>\n  <li><a href=\"www.italiani-a-lipsia.de\">Italiani a Lipsia e. V.</a></li>\n</ul>\n",
+          "audio": null
+        }
+      ]
+    },
+    {
+      "id": "G3775",
+      "name": "Korkbaum",
+      "location": {
+        "lat": "51,3347",
+        "lon": "12,3643",
+        "hints": []
+      },
+      "images": [
+        {
+          "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
+          "description": "Korkbaum"
+        }
+      ],
+      "info_nodes": [
+        {
+          "type": "latin-name",
+          "name": "Lateinischer Name",
+          "text": "Phellodendron lavallei",
+          "audio": null
+        },
+        {
+          "type": "origin",
+          "name": "Lateinischer Name",
+          "text": "Italien",
+          "audio": null
+        },
+        {
+          "type": "leaves",
+          "name": "Bl\u00e4tter",
+          "text": "gl\u00e4nzend, leicht ledrig, dunkelgr\u00fcn, gelappt, Herbstf\u00e4rbung gelb bis rot",
+          "audio": null
+        },
+        {
+          "type": "blossoms",
+          "name": "Bl\u00fcten",
+          "text": "erst nach dem Laubaustrieb, April \u2013 Mai, doldenf\u00f6rmig, gelbgr\u00fcn",
+          "audio": null
+        },
+        {
+          "type": "fruits",
+          "name": "Fr\u00fcchte",
+          "text": "gefl\u00fcgelte N\u00fcsschen mit zwei Samen",
+          "audio": null
+        },
+        {
+          "type": "relation-to-leipzig",
+          "name": "Verbindung zu Leipzig",
+          "text": "<p>Es leben in Leipzig ca. 1.900 Menschen mit italienischem Migrationshintergrund.</p>\n\n<p>Bologna ist Leipzigs zweit\u00e4lteste Partnerstadt. Die Verbindungen reichen zur\u00fcck\nins Jahr 1962, in welchem die offizielle Partnerschaftsurkunde unterzeichnet\nwurde.</p>\n\n<ul>\n  <li><a href=\"https://www.leipzig-italien.de\">Deutsch-Italienische Gesellschaft Leipzig e. V.</a></li>\n  <li><a href=\"www.italiani-a-lipsia.de\">Italiani a Lipsia e. V.</a></li>\n</ul>\n",
+          "audio": null
+        }
+      ]
+    },
+    {
+      "id": "G4102",
+      "name": "Winter-Linde",
+      "location": {
+        "lat": "51,335",
+        "lon": "12,3675",
+        "hints": []
+      },
+      "images": [
+        {
+          "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
+          "description": "Winter-Linde"
+        }
+      ],
+      "info_nodes": [
+        {
+          "type": "latin-name",
+          "name": "Lateinischer Name",
+          "text": "Tilia cordata",
+          "audio": null
+        },
+        {
+          "type": "origin",
+          "name": "Lateinischer Name",
+          "text": "Italien",
+          "audio": null
+        },
+        {
+          "type": "leaves",
+          "name": "Bl\u00e4tter",
+          "text": "gl\u00e4nzend, leicht ledrig, dunkelgr\u00fcn, gelappt, Herbstf\u00e4rbung gelb bis rot",
+          "audio": null
+        },
+        {
+          "type": "blossoms",
+          "name": "Bl\u00fcten",
+          "text": "erst nach dem Laubaustrieb, April \u2013 Mai, doldenf\u00f6rmig, gelbgr\u00fcn",
+          "audio": null
+        },
+        {
+          "type": "fruits",
+          "name": "Fr\u00fcchte",
+          "text": "gefl\u00fcgelte N\u00fcsschen mit zwei Samen",
+          "audio": null
+        },
+        {
+          "type": "relation-to-leipzig",
+          "name": "Verbindung zu Leipzig",
+          "text": "<p>Es leben in Leipzig ca. 1.900 Menschen mit italienischem Migrationshintergrund.</p>\n\n<p>Bologna ist Leipzigs zweit\u00e4lteste Partnerstadt. Die Verbindungen reichen zur\u00fcck\nins Jahr 1962, in welchem die offizielle Partnerschaftsurkunde unterzeichnet\nwurde.</p>\n\n<ul>\n  <li><a href=\"https://www.leipzig-italien.de\">Deutsch-Italienische Gesellschaft Leipzig e. V.</a></li>\n  <li><a href=\"www.italiani-a-lipsia.de\">Italiani a Lipsia e. V.</a></li>\n</ul>\n",
+          "audio": null
+        }
+      ]
+    },
+    {
+      "id": "G4103",
+      "name": "Sommer-Linde",
+      "location": {
+        "lat": "51,3349",
+        "lon": "12,3675",
+        "hints": []
+      },
+      "images": [
+        {
+          "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
+          "description": "Sommer-Linde"
+        }
+      ],
+      "info_nodes": [
+        {
+          "type": "latin-name",
+          "name": "Lateinischer Name",
+          "text": "Tilia platyphyllos",
+          "audio": null
+        },
+        {
+          "type": "origin",
+          "name": "Lateinischer Name",
+          "text": "Italien",
+          "audio": null
+        },
+        {
+          "type": "leaves",
+          "name": "Bl\u00e4tter",
+          "text": "gl\u00e4nzend, leicht ledrig, dunkelgr\u00fcn, gelappt, Herbstf\u00e4rbung gelb bis rot",
+          "audio": null
+        },
+        {
+          "type": "blossoms",
+          "name": "Bl\u00fcten",
+          "text": "erst nach dem Laubaustrieb, April \u2013 Mai, doldenf\u00f6rmig, gelbgr\u00fcn",
+          "audio": null
+        },
+        {
+          "type": "fruits",
+          "name": "Fr\u00fcchte",
+          "text": "gefl\u00fcgelte N\u00fcsschen mit zwei Samen",
+          "audio": null
+        },
+        {
+          "type": "relation-to-leipzig",
+          "name": "Verbindung zu Leipzig",
+          "text": "<p>Es leben in Leipzig ca. 1.900 Menschen mit italienischem Migrationshintergrund.</p>\n\n<p>Bologna ist Leipzigs zweit\u00e4lteste Partnerstadt. Die Verbindungen reichen zur\u00fcck\nins Jahr 1962, in welchem die offizielle Partnerschaftsurkunde unterzeichnet\nwurde.</p>\n\n<ul>\n  <li><a href=\"https://www.leipzig-italien.de\">Deutsch-Italienische Gesellschaft Leipzig e. V.</a></li>\n  <li><a href=\"www.italiani-a-lipsia.de\">Italiani a Lipsia e. V.</a></li>\n</ul>\n",
+          "audio": null
+        }
+      ]
+    },
+    {
+      "id": "G4044",
+      "name": "Rot-Eiche",
+      "location": {
+        "lat": "51,3355",
+        "lon": "12,3643",
+        "hints": []
+      },
+      "images": [
+        {
+          "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
+          "description": "Rot-Eiche"
+        }
+      ],
+      "info_nodes": [
+        {
+          "type": "latin-name",
+          "name": "Lateinischer Name",
+          "text": "Quercus rubra",
+          "audio": null
+        },
+        {
+          "type": "origin",
+          "name": "Lateinischer Name",
+          "text": "Italien",
+          "audio": null
+        },
+        {
+          "type": "leaves",
+          "name": "Bl\u00e4tter",
+          "text": "gl\u00e4nzend, leicht ledrig, dunkelgr\u00fcn, gelappt, Herbstf\u00e4rbung gelb bis rot",
+          "audio": null
+        },
+        {
+          "type": "blossoms",
+          "name": "Bl\u00fcten",
+          "text": "erst nach dem Laubaustrieb, April \u2013 Mai, doldenf\u00f6rmig, gelbgr\u00fcn",
+          "audio": null
+        },
+        {
+          "type": "fruits",
+          "name": "Fr\u00fcchte",
+          "text": "gefl\u00fcgelte N\u00fcsschen mit zwei Samen",
+          "audio": null
+        },
+        {
+          "type": "relation-to-leipzig",
+          "name": "Verbindung zu Leipzig",
+          "text": "<p>Es leben in Leipzig ca. 1.900 Menschen mit italienischem Migrationshintergrund.</p>\n\n<p>Bologna ist Leipzigs zweit\u00e4lteste Partnerstadt. Die Verbindungen reichen zur\u00fcck\nins Jahr 1962, in welchem die offizielle Partnerschaftsurkunde unterzeichnet\nwurde.</p>\n\n<ul>\n  <li><a href=\"https://www.leipzig-italien.de\">Deutsch-Italienische Gesellschaft Leipzig e. V.</a></li>\n  <li><a href=\"www.italiani-a-lipsia.de\">Italiani a Lipsia e. V.</a></li>\n</ul>\n",
+          "audio": null
+        }
+      ]
+    }
+  ]
+}
