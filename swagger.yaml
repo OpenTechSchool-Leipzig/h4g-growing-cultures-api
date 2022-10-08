@@ -86,23 +86,7 @@ components:
           example: Französischer Ahorn
         location:
           type: object
-          properties:
-            lat:
-              type: number
-              format: decimal
-              example: 51.33210
-            lon:
-              type: number
-              format: decimal
-              example: 12.37348
-            hints:
-              type: array
-              items:
-                $ref: '#/components/schemas/InfoNode'
-
-          required:
-            - lat
-            - lon
+          $ref: '#/components/'
         images:
           type: array
           items:
@@ -147,3 +131,22 @@ components:
       required:
         - type
         - name
+    Location:
+      type: object
+      properties:
+        lat:
+          type: number
+          format: decimal
+          example: 51.33210
+        lon:
+          type: number
+          format: decimal
+          example: 12.37348
+        hints:
+          type: array
+          items:
+            $ref: '#/components/schemas/InfoNode'
+
+      required:
+        - lat
+        - lon

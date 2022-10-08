@@ -8,8 +8,16 @@
       "location": {
         "lat": "51.335",
         "lon": "12.3668",
-        "hints": []
+        "hints": [
+          {
+            "type": "leaves",
+            "name": "Bl\u00e4tter",
+            "text": "<img src=\"https://growcult.uber.space/api/examples/populus-nigra-italica-leaf.jpg\">",
+            "audio": null
+          }
+        ]
       },
+      "alternate_locations": [],
       "images": [
         {
           "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
@@ -63,6 +71,7 @@
         "lon": "12.3659",
         "hints": []
       },
+      "alternate_locations": [],
       "images": [
         {
           "url": "https://growcult.uber.space/api/examples/tilia-tomentosa-petiolaris.jpg",
@@ -116,6 +125,7 @@
         "lon": "12.3658",
         "hints": []
       },
+      "alternate_locations": [],
       "images": [
         {
           "url": "https://growcult.uber.space/api/examples/fraxinus-excelsior-pendula.jpg",
@@ -169,6 +179,7 @@
         "lon": "12.3665",
         "hints": []
       },
+      "alternate_locations": [],
       "images": [
         {
           "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
@@ -222,6 +233,7 @@
         "lon": "12.3666",
         "hints": []
       },
+      "alternate_locations": [],
       "images": [
         {
           "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
@@ -275,6 +287,7 @@
         "lon": "12.3659",
         "hints": []
       },
+      "alternate_locations": [],
       "images": [
         {
           "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
@@ -328,6 +341,7 @@
         "lon": "12.3648",
         "hints": []
       },
+      "alternate_locations": [],
       "images": [
         {
           "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
@@ -381,6 +395,7 @@
         "lon": "12.3643",
         "hints": []
       },
+      "alternate_locations": [],
       "images": [
         {
           "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
@@ -434,6 +449,7 @@
         "lon": "12.3655",
         "hints": []
       },
+      "alternate_locations": [],
       "images": [
         {
           "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
@@ -487,6 +503,7 @@
         "lon": "12.3638",
         "hints": []
       },
+      "alternate_locations": [],
       "images": [
         {
           "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
@@ -540,6 +557,7 @@
         "lon": "12.3631",
         "hints": []
       },
+      "alternate_locations": [],
       "images": [
         {
           "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
@@ -593,6 +611,7 @@
         "lon": "12.3628",
         "hints": []
       },
+      "alternate_locations": [],
       "images": [
         {
           "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
@@ -646,6 +665,7 @@
         "lon": "12.3628",
         "hints": []
       },
+      "alternate_locations": [],
       "images": [
         {
           "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
@@ -699,6 +719,7 @@
         "lon": "12.3626",
         "hints": []
       },
+      "alternate_locations": [],
       "images": [
         {
           "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
@@ -752,6 +773,7 @@
         "lon": "12362",
         "hints": []
       },
+      "alternate_locations": [],
       "images": [
         {
           "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
@@ -805,6 +827,7 @@
         "lon": "12.3612",
         "hints": []
       },
+      "alternate_locations": [],
       "images": [
         {
           "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
@@ -858,6 +881,7 @@
         "lon": "12.3608",
         "hints": []
       },
+      "alternate_locations": [],
       "images": [
         {
           "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
@@ -911,6 +935,7 @@
         "lon": "12.3605",
         "hints": []
       },
+      "alternate_locations": [],
       "images": [
         {
           "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
@@ -964,6 +989,7 @@
         "lon": "12.3603",
         "hints": []
       },
+      "alternate_locations": [],
       "images": [
         {
           "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
@@ -1017,6 +1043,7 @@
         "lon": "12.3616",
         "hints": []
       },
+      "alternate_locations": [],
       "images": [
         {
           "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
@@ -1070,6 +1097,7 @@
         "lon": "12.3629",
         "hints": []
       },
+      "alternate_locations": [],
       "images": [
         {
           "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
@@ -1123,6 +1151,7 @@
         "lon": "12.3643",
         "hints": []
       },
+      "alternate_locations": [],
       "images": [
         {
           "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
@@ -1176,6 +1205,7 @@
         "lon": "12.3675",
         "hints": []
       },
+      "alternate_locations": [],
       "images": [
         {
           "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
@@ -1229,6 +1259,7 @@
         "lon": "12.3675",
         "hints": []
       },
+      "alternate_locations": [],
       "images": [
         {
           "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
@@ -1282,6 +1313,7 @@
         "lon": "12.3643",
         "hints": []
       },
+      "alternate_locations": [],
       "images": [
         {
           "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
