@@ -1,0 +1,116 @@
+openapi: 3.0.3
+info:
+  title: Growing Cultures API
+  version: 0.0.1
+  description: |-
+    TODO
+
+    Internationalization is handled by honoring the `Accept-Language`
+    header. Responses will always contain a `Content-Language` header.
+
+  license: # TODO
+    name: Apache 2.0
+    url: http://www.apache.org/licenses/LICENSE-2.0.html
+paths:
+  /tour/{tourId}:
+    get:
+      summary: Find tour by ID
+      description: Returns a single tour
+      parameters:
+        - name: tourId
+          in: path
+          description: ID of tour to return
+          required: true
+          schema:
+            type: string
+            format: uuid
+      responses:
+        '200':
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Tour'
+        '400':
+          description: Invalid ID supplied
+        '404':
+          description: Tour not found
+  /poi/{poiId}:
+    get:
+      summary: Find POI by ID
+      description: Returns a single POI
+      parameters:
+        - name: poiId
+          in: path
+          description: ID of POI to return
+          required: true
+          schema:
+            type: string
+            format: uuid
+      responses:
+        '200':
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/POI'
+        '400':
+          description: Invalid ID supplied
+        '404':
+          description: POI not found
+components:
+  schemas:
+    Tour:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+          example: 7a3e843b-82f7-40bf-897e-d28dee2be5af
+        name:
+          type: string
+          example: Johannapark
+      required:
+        - id
+        - name
+    POI:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+          example: 5916fbc9-fc81-4f7d-9ba1-2ff0f3e55e98
+        name:
+          type: string
+          example: Französischer Ahorn
+        location:
+          type: object
+          properties:
+            lat:
+              type: number
+              format: decimal
+              example: 51.33210
+            lon:
+              type: number
+              format: decimal
+              example: 12.37348
+          required:
+            - lat
+            - lon
+        images:
+          type: array
+          items:
+            type: object
+            properties:
+              url:
+                type: string
+              description:
+                type: string
+            required:
+              - url
+              - description
+      required:
+        - id
+        - name
+        - location
+        - images
