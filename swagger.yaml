@@ -86,7 +86,7 @@ components:
           example: Französischer Ahorn
         location:
           type: object
-          $ref: '#/components/'
+          $ref: '#/components/schemas/Location'
         images:
           type: array
           items:
