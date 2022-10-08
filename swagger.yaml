@@ -3,7 +3,9 @@ info:
   title: Growing Cultures API
   version: 0.0.1
   description: |-
-    TODO
+    This API is providing read-only access to Points-of-Interest (POIs) and
+    tours. POIs are mostly trees, providing various facts about themselves as
+    well as their home countries' cultural relations to Leipzig.
 
     Internationalization is handled by honoring the `Accept-Language`
     header. Responses will always contain a `Content-Language` header.
