@@ -70,9 +70,14 @@ components:
         name:
           type: string
           example: Johannapark
+        pois:
+          type: array
+          items:
+            $ref: '#/components/schemas/POI'
       required:
         - id
         - name
+        - pois
     POI:
       type: object
       properties:
@@ -104,13 +109,38 @@ components:
             properties:
               url:
                 type: string
+                format: url
               description:
                 type: string
             required:
               - url
               - description
+        info_nodes:
+          type: array
+          items:
+            type: object
+            properties:
+              type:
+                type: string
+                example: "latin-name"
+                description: |-
+                  One of `latin-name`, `origin`, ...
+              name:
+                type: string
+                example: "Lateinischer Name"
+              text:
+                type: string
+                format: markdown
+                example: "Acer monspessulanum"
+              audio:
+                type: string
+                format: url
+            required:
+              - type
+              - name
       required:
         - id
         - name
         - location
         - images
+        - info_nodes
