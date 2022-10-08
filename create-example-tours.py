@@ -111,7 +111,11 @@ def get_image(name):
 
 
 def get_relation(origin):
-    with open("raw/Italien.html") as f:
+    relation_html = os.path.join("raw", origin + ".html")
+    if not os.path.exists(relation_html):
+        relation_html = os.path.join("raw", "Italien.html")
+
+    with open(relation_html) as f:
         return f.read()
 
 
