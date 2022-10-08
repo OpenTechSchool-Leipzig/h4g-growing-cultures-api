@@ -69,7 +69,14 @@
       "location": {
         "lat": "51.3351",
         "lon": "12.3659",
-        "hints": []
+        "hints": [
+          {
+            "type": "leaves",
+            "name": "Bl\u00e4tter",
+            "text": "<img src=\"https://growcult.uber.space/api/examples/tilia-tomentosa-petiolaris-leaf.jpg\">",
+            "audio": null
+          }
+        ]
       },
       "alternate_locations": [],
       "images": [
@@ -123,7 +130,14 @@
       "location": {
         "lat": "51.3352",
         "lon": "12.3658",
-        "hints": []
+        "hints": [
+          {
+            "type": "leaves",
+            "name": "Bl\u00e4tter",
+            "text": "<img src=\"https://growcult.uber.space/api/examples/fraxinus-excelsior-pendula-leaf.jpg\">",
+            "audio": null
+          }
+        ]
       },
       "alternate_locations": [],
       "images": [
