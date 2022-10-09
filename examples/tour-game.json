@@ -153,6 +153,18 @@
           ]
         },
         {
+          "lat": "51.3358",
+          "lon": "12.3644",
+          "hints": [
+            {
+              "type": "leaves",
+              "name": "Bl\u00e4tter",
+              "text": "<img src=\"https://growcult.uber.space/api/examples/tilia-tomentosa-petiolaris-leaf.jpg\">",
+              "audio": null
+            }
+          ]
+        },
+        {
           "lat": "51.3359",
           "lon": "12.3638",
           "hints": [
@@ -178,18 +190,6 @@
         },
         {
           "lat": "51.3358",
-          "lon": "12.3628",
-          "hints": [
-            {
-              "type": "leaves",
-              "name": "Bl\u00e4tter",
-              "text": "<img src=\"https://growcult.uber.space/api/examples/tilia-tomentosa-petiolaris-leaf.jpg\">",
-              "audio": null
-            }
-          ]
-        },
-        {
-          "lat": "51.3357",
           "lon": "12.3628",
           "hints": [
             {
@@ -263,6 +263,18 @@
       },
       "alternate_locations": [
         {
+          "lat": "51.3357",
+          "lon": "12.3628",
+          "hints": [
+            {
+              "type": "leaves",
+              "name": "Bl\u00e4tter",
+              "text": "<img src=\"https://growcult.uber.space/api/examples/fraxinus-excelsior-pendula-leaf.jpg\">",
+              "audio": null
+            }
+          ]
+        },
+        {
           "lat": "51.3352",
           "lon": "12.3626",
           "hints": [
@@ -277,18 +289,6 @@
         {
           "lat": "51.335",
           "lon": "12.362",
-          "hints": [
-            {
-              "type": "leaves",
-              "name": "Bl\u00e4tter",
-              "text": "<img src=\"https://growcult.uber.space/api/examples/fraxinus-excelsior-pendula-leaf.jpg\">",
-              "audio": null
-            }
-          ]
-        },
-        {
-          "lat": "51.3347",
-          "lon": "12.3612",
           "hints": [
             {
               "type": "leaves",

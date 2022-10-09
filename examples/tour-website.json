@@ -510,6 +510,60 @@
       ]
     },
     {
+      "id": "G4044",
+      "name": "Rot-Eiche",
+      "location": {
+        "lat": "51.3358",
+        "lon": "12.3644",
+        "hints": []
+      },
+      "alternate_locations": [],
+      "images": [
+        {
+          "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
+          "description": "Rot-Eiche"
+        }
+      ],
+      "info_nodes": [
+        {
+          "type": "latin-name",
+          "name": "Lateinischer Name",
+          "text": "Quercus rubra",
+          "audio": null
+        },
+        {
+          "type": "origin",
+          "name": "Lateinischer Name",
+          "text": "Italien",
+          "audio": null
+        },
+        {
+          "type": "leaves",
+          "name": "Bl\u00e4tter",
+          "text": "gl\u00e4nzend, leicht ledrig, dunkelgr\u00fcn, gelappt, Herbstf\u00e4rbung gelb bis rot",
+          "audio": null
+        },
+        {
+          "type": "blossoms",
+          "name": "Bl\u00fcten",
+          "text": "erst nach dem Laubaustrieb, April \u2013 Mai, doldenf\u00f6rmig, gelbgr\u00fcn",
+          "audio": null
+        },
+        {
+          "type": "fruits",
+          "name": "Fr\u00fcchte",
+          "text": "gefl\u00fcgelte N\u00fcsschen mit zwei Samen",
+          "audio": null
+        },
+        {
+          "type": "relation-to-leipzig",
+          "name": "Verbindung zu Leipzig",
+          "text": "<p>Es leben in Leipzig ca. 1.900 Menschen mit italienischem Migrationshintergrund.</p>\n\n<p>Bologna ist Leipzigs zweit\u00e4lteste Partnerstadt. Die Verbindungen reichen zur\u00fcck\nins Jahr 1962, in welchem die offizielle Partnerschaftsurkunde unterzeichnet\nwurde.</p>\n\n<ul>\n  <li><a href=\"https://www.leipzig-italien.de\">Deutsch-Italienische Gesellschaft Leipzig e. V.</a></li>\n  <li><a href=\"www.italiani-a-lipsia.de\">Italiani a Lipsia e. V.</a></li>\n</ul>\n",
+          "audio": null
+        }
+      ]
+    },
+    {
       "id": "G4065",
       "name": "Franz\u00f6sischer Ahorn",
       "location": {
@@ -1285,60 +1339,6 @@
           "type": "latin-name",
           "name": "Lateinischer Name",
           "text": "Tilia platyphyllos",
-          "audio": null
-        },
-        {
-          "type": "origin",
-          "name": "Lateinischer Name",
-          "text": "Italien",
-          "audio": null
-        },
-        {
-          "type": "leaves",
-          "name": "Bl\u00e4tter",
-          "text": "gl\u00e4nzend, leicht ledrig, dunkelgr\u00fcn, gelappt, Herbstf\u00e4rbung gelb bis rot",
-          "audio": null
-        },
-        {
-          "type": "blossoms",
-          "name": "Bl\u00fcten",
-          "text": "erst nach dem Laubaustrieb, April \u2013 Mai, doldenf\u00f6rmig, gelbgr\u00fcn",
-          "audio": null
-        },
-        {
-          "type": "fruits",
-          "name": "Fr\u00fcchte",
-          "text": "gefl\u00fcgelte N\u00fcsschen mit zwei Samen",
-          "audio": null
-        },
-        {
-          "type": "relation-to-leipzig",
-          "name": "Verbindung zu Leipzig",
-          "text": "<p>Es leben in Leipzig ca. 1.900 Menschen mit italienischem Migrationshintergrund.</p>\n\n<p>Bologna ist Leipzigs zweit\u00e4lteste Partnerstadt. Die Verbindungen reichen zur\u00fcck\nins Jahr 1962, in welchem die offizielle Partnerschaftsurkunde unterzeichnet\nwurde.</p>\n\n<ul>\n  <li><a href=\"https://www.leipzig-italien.de\">Deutsch-Italienische Gesellschaft Leipzig e. V.</a></li>\n  <li><a href=\"www.italiani-a-lipsia.de\">Italiani a Lipsia e. V.</a></li>\n</ul>\n",
-          "audio": null
-        }
-      ]
-    },
-    {
-      "id": "G4044",
-      "name": "Rot-Eiche",
-      "location": {
-        "lat": "51.3355",
-        "lon": "12.3643",
-        "hints": []
-      },
-      "alternate_locations": [],
-      "images": [
-        {
-          "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
-          "description": "Rot-Eiche"
-        }
-      ],
-      "info_nodes": [
-        {
-          "type": "latin-name",
-          "name": "Lateinischer Name",
-          "text": "Quercus rubra",
           "audio": null
         },
         {
