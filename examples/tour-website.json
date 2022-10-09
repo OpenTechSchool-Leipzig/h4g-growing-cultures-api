@@ -783,8 +783,8 @@
       "id": "G3708",
       "name": "Sumpfzypresse",
       "location": {
-        "lat": "51335",
-        "lon": "12362",
+        "lat": "51.335",
+        "lon": "12.362",
         "hints": []
       },
       "alternate_locations": [],
@@ -945,7 +945,7 @@
       "id": "G3624",
       "name": "Schwedische Mehlbeere",
       "location": {
-        "lat": "51334",
+        "lat": "51.334",
         "lon": "12.3605",
         "hints": []
       },
@@ -1053,7 +1053,7 @@
       "id": "G3520",
       "name": "Spitz-Ahorn",
       "location": {
-        "lat": "51333",
+        "lat": "51.333",
         "lon": "12.3616",
         "hints": []
       },
@@ -1215,7 +1215,7 @@
       "id": "G4102",
       "name": "Winter-Linde",
       "location": {
-        "lat": "51335",
+        "lat": "51.335",
         "lon": "12.3675",
         "hints": []
       },
