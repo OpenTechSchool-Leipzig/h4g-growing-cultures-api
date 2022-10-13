@@ -4,7 +4,7 @@
   "pois": [
     {
       "id": "G4113",
-      "name": "Pyramiden-Pappel",
+      "name": "Italienische Pappel",
       "location": {
         "lat": "51.335",
         "lon": "12.3668",
@@ -70,7 +70,7 @@
       "images": [
         {
           "url": "https://growcult.uber.space/api/examples/populus-nigra-italica.jpg",
-          "description": "Pyramiden-Pappel"
+          "description": "Italienische Pappel"
         }
       ],
       "info_nodes": [
