@@ -17,6 +17,7 @@
         devShell = mkShell {
           buildInputs = [
             cargo-expand
+            cargo-watch
             just
             rust-analyzer
             rust-bin.stable.latest.default
