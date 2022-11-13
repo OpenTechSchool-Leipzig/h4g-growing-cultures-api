@@ -6,8 +6,14 @@ deploy:
     rsync -r docs/ growcult-uberspace:html/api/docs/
     rsync -r examples/ growcult-uberspace:html/api/examples/
 
+build:
+    cargo build
+
 fmt:
     cargo fmt --all
+
+doc:
+    cargo doc --open
 
 test:
     cargo clippy --all-targets --all-features -- -D warnings
