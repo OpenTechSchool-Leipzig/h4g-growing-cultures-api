@@ -16,11 +16,15 @@
       in with pkgs; {
         devShell = mkShell {
           buildInputs = [
+            bacon
             cargo-expand
             cargo-watch
             just
             rust-analyzer
             rust-bin.stable.latest.default
+
+            openssl
+            pkgconfig
           ];
         };
       }
